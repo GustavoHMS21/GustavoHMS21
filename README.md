@@ -25,8 +25,8 @@ Mesma empresa de telecom. Ferramentas: agentes e skills no Claude, API do banco 
 Criei agentes e skills, usados dentro do Claude, para acompanhar a esteira interna de delivery.
 
 - Os agentes leem os dados pela API do banco interno e pelas planilhas compartilhadas e centralizam tudo no Power BI.
-- Com ajuda de LLM, apontam onde a esteira pode melhorar e encontram gargalos pequenos que atrasavam o trabalho em dias.
-- Também ajudam a montar as apresentações para a diretoria (C-level).
+- Com ajuda de LLM, apontam onde a esteira pode melhorar e encontram gargalos pequenos que atrasavam em dias a resposta aos clientes externos. Entre 6 e 10 desses gargalos foram corrigidos, e a esteira ficou de 15% a 20% mais rápida.
+- Os agentes montam a apresentação para a diretoria (C-level) em menos de 2 minutos.
 
 ## Projetos de portfólio
 

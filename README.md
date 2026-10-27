@@ -4,7 +4,19 @@ Construo agentes e automações com LLM para problemas de operação: atendiment
 
 Antes disso, trabalhei 3 anos na EY como consultor de Tech Risk (ITGC, SOX, LGPD, ISO 27001). Isso aparece no jeito que eu construo: regra que não pode falhar fica no código, não no prompt, e nada é dado como pronto sem avaliação medida.
 
-## Projetos
+## Trabalho em empresa
+
+Projetos internos. O código fica com a empresa, então aqui vai o que foi feito e o resultado.
+
+### Agente de Ocorrência
+
+A área comercial recebia cerca de 600 ocorrências por mês, e cada uma era aberta, acompanhada e fechada de um jeito diferente. Construí um agente que centralizou a abertura, o fechamento e a visualização de todas elas num lugar só.
+
+- Com os dados num lugar só, um painel no Power BI passou a mostrar em que área estavam os gargalos e onde dava para ajudar.
+- O tempo médio de resposta ao cliente caiu de 5 a 6 dias para 1 a 2 dias.
+- O head de operações passou a ter uma visão geral da área.
+
+## Projetos de portfólio
 
 | Projeto | Problema | Resultado medido | Stack |
 |---|---|---|---|

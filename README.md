@@ -10,11 +10,23 @@ Projetos internos. O código fica com a empresa, então aqui vai o que foi feito
 
 ### Agente de Ocorrência
 
+Empresa de telecom. Ferramentas: Copilot Studio, Power Apps, Power Automate, SharePoint e Power BI.
+
 A área comercial recebia cerca de 600 ocorrências por mês, e cada uma era aberta, acompanhada e fechada de um jeito diferente. Construí um agente que centralizou a abertura, o fechamento e a visualização de todas elas num lugar só.
 
 - Com os dados num lugar só, um painel no Power BI passou a mostrar em que área estavam os gargalos e onde dava para ajudar.
 - O tempo médio de resposta ao cliente caiu de 5 a 6 dias para 1 a 2 dias.
 - O head de operações passou a ter uma visão geral da área.
+
+### Agentes da esteira de delivery
+
+Ferramentas: agentes e skills no Claude, API do banco de dados interno, planilhas compartilhadas e Power BI.
+
+Criei agentes e skills, usados dentro do Claude, para acompanhar a esteira interna de delivery.
+
+- Os agentes leem os dados pela API do banco interno e pelas planilhas compartilhadas e centralizam tudo no Power BI.
+- Com ajuda de LLM, apontam onde a esteira pode melhorar e encontram gargalos pequenos que atrasavam o trabalho em dias.
+- Também ajudam a montar as apresentações para a diretoria (C-level).
 
 ## Projetos de portfólio
 

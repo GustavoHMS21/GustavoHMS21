@@ -20,7 +20,7 @@ A área comercial recebia cerca de 600 ocorrências por mês, e cada uma era abe
 
 ### Agentes da esteira de delivery
 
-Ferramentas: agentes e skills no Claude, API do banco de dados interno, planilhas compartilhadas e Power BI.
+Mesma empresa de telecom. Ferramentas: agentes e skills no Claude, API do banco de dados interno, planilhas compartilhadas e Power BI.
 
 Criei agentes e skills, usados dentro do Claude, para acompanhar a esteira interna de delivery.
 
